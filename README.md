@@ -19,6 +19,10 @@ Currently, the WIGWIZ (interactive graph visualization) feature is implemented f
 - WIGWIZ support for graph diagrams
 - Easy code-to-visualization workflow
 
+## Acknowledgments
+
+This project uses mermaid.js (MIT License) for diagram rendering. Copyright (c) 2014-2022 Knut Sveidqvist
+
 ---
 
 ## Run Locally

@@ -1,9 +1,17 @@
-MIT License
+# Third-Party Notices
 
-Copyright (c) 2026 studiojin-dev
+This project includes third-party software components with their own licenses. This file includes copyright notices and license information for those components.
 
-Portions of this software include mermaid.js
-Copyright (c) 2014-2022 Knut Sveidqvist
+## mermaid.js
+
+**Name:** mermaid.js  
+**Version:** 11.12.0  
+**License:** MIT License  
+**Copyright:** (c) 2014-2022 Knut Sveidqvist  
+**Source:** https://github.com/mermaid-js/mermaid  
+**Usage:** Loaded via CDN for diagram rendering
+
+### MIT License (mermaid.js)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
