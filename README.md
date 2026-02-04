@@ -3,7 +3,7 @@
 
 # mermaid-board
 
-![mermaid-board execution screen](/Users/kimjeongjin/Pictures/ScreenShot/SCR-20260204-skht.png)
+![mermaid-board execution screen](./SCR-20260204-skht.png)
 
 **Live Demo:** [https://studiojin.dev/utils/mermaid/](https://studiojin.dev/utils/mermaid/)
 
